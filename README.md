@@ -10,7 +10,7 @@ Styling
 
 Navbar
 
-Blog module with Netlify CMS. 
+Blog module with Contentful CMS. 
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
