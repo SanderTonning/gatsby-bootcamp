@@ -1,3 +1,17 @@
+This is the Gatsby starter readme. I've done a few changes to the starter project through the Gatsby bootcamp by Andrew Mead.
+ 
+Added: 
+
+Header
+
+Footer
+
+Styling
+
+Navbar
+
+Blog module with Netlify CMS. 
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
@@ -100,4 +114,5 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 
 Too access my project you will need a .env file and token for netlify CMS. 
+
 Npm install for new dependencies. 
